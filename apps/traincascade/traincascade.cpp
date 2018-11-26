@@ -7,6 +7,14 @@
 using namespace std;
 using namespace cv;
 
+
+/*
+
+add some lines of comments here for testing and illustration purposes.
+Created by @Jungminyoung1
+
+*/
+
 int main( int argc, char* argv[] )
 {
     CvCascadeClassifier classifier;
